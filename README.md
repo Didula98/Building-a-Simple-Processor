@@ -22,3 +22,7 @@ Then you can select components that want to show from the left tab
 
 Instruction file "instr_mem.mem" will be needed to run the CPU properly.
 It should be in the same directory with verilog file. If not, change the path in verilog file.
+
+## Overview of CPU
+
+![Capture](https://user-images.githubusercontent.com/84913495/177954119-0fb61cb7-6c44-48ab-9df5-beb8ae2cdfb1.PNG)
